@@ -33,11 +33,10 @@ yarn-error.log*
 .env*.local
 
 # .env file
-.env
 
 # .DS_Store
 .DS_Store
 
 # vercel
 .vercel
-.env
+config.bat
