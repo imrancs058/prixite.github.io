@@ -21,7 +21,6 @@ venv
 .DS_Store
 *.pem
 /env
-/.vscode
 
 # debug
 npm-debug.log*
