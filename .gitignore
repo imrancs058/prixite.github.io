@@ -21,6 +21,7 @@ venv
 .DS_Store
 *.pem
 /env
+/.vscode
 
 # debug
 npm-debug.log*
@@ -32,10 +33,11 @@ yarn-error.log*
 .env*.local
 
 # .env file
+.env
 
 # .DS_Store
 .DS_Store
 
 # vercel
 .vercel
-config.bat
+.env
