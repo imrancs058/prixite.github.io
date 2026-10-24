@@ -6,9 +6,9 @@
     "node": ">=16"
   },
   "scripts": {
-    "dev": "node api.js && next dev",
-    "build": "node api.js && next build",
-    "start": "node api.js && next start",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "export": "next export",
     "lint": "next lint && eslint && prettier --check .",
     "fix": "prettier --write ."
